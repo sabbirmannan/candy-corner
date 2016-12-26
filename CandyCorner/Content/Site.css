@@ -1,4 +1,10 @@
-﻿body {
+﻿
+.jumbotron {
+    background-color: #c13a38;
+    color: white;
+}
+
+body {
     padding-top: 50px;
     padding-bottom: 20px;
 }
@@ -63,6 +69,8 @@ form.add-comment  {
     margin-top: 10px;
     margin-bottom: 10px;
 }
+
+
 
 
 /* Override the default bootstrap behavior where horizontal description lists 
